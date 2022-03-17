@@ -5,7 +5,7 @@ import org.junit.*;
 public class screencasttester {
     @Test
     public void testsumarg(){
-        assertEquals(6, screencast.sumargs(2, 3));
+        assertEquals(6, screencast.sumargs(3, 3));
     }
 }
 
